@@ -1,5 +1,4 @@
 import whois
-import pprint
 import socket
 
 def get_info_by_domain(domain_name):
